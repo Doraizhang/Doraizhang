@@ -54,11 +54,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
-* <a href='https://blog.sunguoqi.com/archives/ohmyposh' target='_blank'>Oh My Posh | Windows Terminal 美化指南</a> - 2023-07-15
-* <a href='https://blog.sunguoqi.com/archives/brain' target='_blank'>小孙同学 の 第二大脑正在施工中 。。。</a> - 2023-03-26
-* <a href='https://blog.sunguoqi.com/archives/20230225' target='_blank'>奔跑在自己的时区里，你好哇，我的22岁！</a> - 2023-02-25
-* <a href='https://blog.sunguoqi.com/archives/github_profile_0' target='_blank'>让面试官眼前一亮，手把手带你打造个性化的 GitHub 首页</a> - 2023-01-30
-* <a href='https://blog.sunguoqi.com/archives/chatgpt' target='_blank'>快速上手，教你如何将 ChatGPT 接入到微信公众号</a> - 2023-01-29
+* <a href='https://blog.mczyx.online/%e5%bb%ba%e7%ab%99/%e5%9c%a8%e7%ba%bf%e6%96%87%e6%a1%a3%e7%b3%bb%e7%bb%9f/' target='_blank'>在线文档系统</a> - 2023-08-20
+* <a href='https://blog.mczyx.online/%E5%BB%BA%E7%AB%99/%E6%9A%97%E7%BD%91%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA%E5%92%8C%E6%9A%97%E7%BD%91%E5%9F%9F%E5%90%8D%E7%94%B3%E8%AF%B7%E6%96%B9%E6%B3%95/' target='_blank'>暗网网站搭建和暗网域名申请方法</a> - 2023-08-15
+* <a href='https://blog.mczyx.online/%e8%bd%af%e4%bb%b6/rustdesk%e9%83%a8%e7%bd%b2%e6%95%99%e7%a8%8b/' target='_blank'>Rustdesk部署教程</a> - 2023-07-18
+* <a href='https://blog.mczyx.online/%e7%a7%91%e6%99%ae/%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e7%9a%84%e5%8f%91%e5%b1%95%e5%8e%86%e7%a8%8b%e5%8f%8a%e5%ba%95%e5%b1%82%e5%8e%9f%e7%90%86%e5%88%86%e6%9e%90/' target='_blank'>人工智能的发展历程及底层原理分析</a> - 2023-05-02
+* <a href='https://blog.mczyx.online/%e8%bd%af%e4%bb%b6/pixel4%e5%88%b7%e5%85%a5pe%e7%b3%bb%e7%bb%9f/' target='_blank'>Pixel4刷入Pe系统</a> - 2023-01-29
 <!-- END_SECTION:blog -->
 
 </td></tr>
@@ -81,21 +81,6 @@
 
 <tr><td>
 
-### 🤾‍♂️ Funny Soul
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
-
-<!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/35193035/' target='_blank'>最近在读认知觉醒</a> 🌟🌟🌟🌟🌟 力荐- 2023-04-17
-* <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='http://movie.douban.com/subject/1292365/' target='_blank'>看过活着</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='https://music.douban.com/subject/26567580/' target='_blank'>听过假如爱有天意</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='http://movie.douban.com/subject/35465232/' target='_blank'>在看狂飙</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-<!-- END_SECTION:douban -->
-
-</td></tr>
-
-<tr><td>
 
 <!-- wakatime 统计 -->
 ### 📊 WakaTime
@@ -174,10 +159,9 @@ Mac                      5 hrs 2 mins        ████░░░░░░░�
 
 ```mermaid
 mindmap
-  root((小孙同学))
+  root((Zyx))
     编程
       Web开发
-      网络爬虫
       人工智能
     摄影
       风光
