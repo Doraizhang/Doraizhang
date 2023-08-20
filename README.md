@@ -34,7 +34,7 @@
 <!-- About me 关于我 -->
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
+<img align="right" width="88" src="https://q2.qlogo.cn/headimg_dl?dst_uin=2078170660&spec=100" />
 
 <p>&emsp;&emsp;大家好，我是Zyx</p>
 <p>&emsp;&emsp;热爱摄影、旅行。</p>
@@ -65,21 +65,7 @@
 
 <tr><td>
 
-### 🧠 Second Brain
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
-
-<!-- START_SECTION:brain -->
-* <a href='https://brain.sunguoqi.com/web/js/chapter01/page.html' target='_blank'>W</a> - 2020-01-01
-* <a href='https://brain.sunguoqi.com/web/js/chapter02/page.html' target='_blank'>WIP</a> - 2020-01-01
-* <a href='https://brain.sunguoqi.com/web/js/chapter03/page.html' target='_blank'>WIP</a> - 2020-01-01
-* <a href='https://brain.sunguoqi.com/web/js/chapter04/page.html' target='_blank'>WIP</a> - 2020-01-01
-* <a href='https://brain.sunguoqi.com/web/js/chapter05/page.html' target='_blank'>WIP</a> - 2020-01-01
-<!-- END_SECTION:brain -->
-
-</td></tr>
-
-<tr><td>
 
 
 <!-- wakatime 统计 -->
@@ -87,14 +73,14 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Doraizhang&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Doraizhang&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Doraizhang&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
 </picture>
 
 </td></tr>
@@ -102,49 +88,6 @@
 <tr><td>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                550 commits         ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
-🌆 Daytime                704 commits         ████████░░░░░░░░░░░░░░░░░   31.90 % 
-🌃 Evening                642 commits         ███████░░░░░░░░░░░░░░░░░░   29.09 % 
-🌙 Night                  311 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   261 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Tuesday                  195 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-Wednesday                312 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-Thursday                 259 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-Friday                   662 commits         ████████░░░░░░░░░░░░░░░░░   30.00 % 
-Saturday                 187 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-Sunday                   331 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Vue.js                   26 hrs 58 mins      ██████████████████████░░░   88.19 % 
-JavaScript               1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-SCSS                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-Markdown                 34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-JSON                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-
-🔥 Editors: 
-VS Code                  29 hrs 47 mins      ████████████████████████░   97.38 % 
-Obsidian                 26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-IntelliJ                 21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-
-💻 Operating System: 
-Windows                  25 hrs 32 mins      █████████████████████░░░░   83.51 % 
-Mac                      5 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-```
-
 
  Last Updated on 20/08/2023 01:12:38 UTC
 <!--END_SECTION:waka-->
@@ -165,13 +108,16 @@ mindmap
       人工智能
     摄影
       风光
+      人像
     旅行
       广州
       苏州
       南京
-      滁州
-      合肥
-      寿县
+      上海
+      北京
+      昆明
+      香格里拉
+      大理
     阅读
       人物传记
       个人成长
@@ -266,11 +212,11 @@ mindmap
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
   
 <!-- GitHub 奖杯🏆 -->
-<img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
+<img  src="https://github-profile-trophy.vercel.app/?username=Doraizhang&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
 
 <!-- GitHub 数据统计 -->
-<img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
+<img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Doraizhang&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Doraizhang&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
 
 <!-- Awesome repo 比较好的仓库-->
 <a href="https://github.com/sun0225SUN/Awesome-Love-Code">
@@ -314,7 +260,7 @@ mindmap
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table align="center">
   <tr>
-    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
+    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=Doraizhang&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
   </tr>
 </table>
 
